@@ -7,5 +7,5 @@
 # pa09: Parse retail store web file, use regex to scrape the product title and retail price, save to a text file.
 # pp1: Group project, use control flow statements and loops to solve a maze.
 # pp2: Group project, input a credit card payment, hash cc number, use Hans Luhn algorithm to validate cc number.
-# pp3:
+# pp3: Group project, GUI payroll system for monthly/hourly employees.
 # pp4:
