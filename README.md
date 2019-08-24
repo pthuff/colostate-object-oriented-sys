@@ -8,4 +8,4 @@
 # pp1: Group project, use control flow statements and loops to solve a maze.
 # pp2: Group project, input a credit card payment, hash cc number, use Hans Luhn algorithm to validate cc number.
 # pp3: Group project, GUI payroll system for monthly/hourly employees.
-# pp4:
+# pp4: Group project, parse NFL.com defensive back stats pages, use regex to scrape stats, then sort and display.
