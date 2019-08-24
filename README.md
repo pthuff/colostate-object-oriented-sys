@@ -6,6 +6,6 @@
 # pa08: GUI to insert, view, update, and delete staff/telephone information from a local MySQL db.
 # pa09: Parse retail store web file, use regex to scrape the product title and retail price, save to a text file.
 # pp1: Group project, use control flow statements and loops to solve a maze.
-# pp2:
+# pp2: Group project, input a credit card payment, hash cc number, use Hans Luhn algorithm to validate cc number.
 # pp3:
 # pp4:
