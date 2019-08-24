@@ -1,6 +1,6 @@
 # pa02: Input filing status/income and calculate tax. 
 # pa03: Calculate rental, discounts, and total charges for a ski resort. 
-# pa04: 
+# pa04: Password input validation. Read data from a text file and sort by price. 
 # pa05: 
 # pa06: 
 # pa07:
